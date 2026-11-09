@@ -28,14 +28,14 @@ baseurl                  : ""         # -> ""
 repository               : "jacobw23-coder/jacobw23-coder.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Jacob White's Senior Seminar Portfolio" # the name shown in the maroon header bar and browser tab
 author:
-  name     : "Robin Hokie"
+  name     : "Jacob White"
   avatar   : "/images/bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
-  email    : "robin.hokie@vt.edu"
+  email    : "jacobw23@vt.edu"
   github   : "robinhokie"    # username only, no URL — set blank to hide
   instagram: "robinhokie"    # username only, no URL — set blank to hide
-  linkedin : "robinhokie"    # username only, no URL — set blank to hide
+  linkedin : "https://www.linkedin.com/in/imjacobwhite/"    # username only, no URL — set blank to hide
 # ============================================================
 # END EDIT ZONE
 # Academicpages config continues below this point.
